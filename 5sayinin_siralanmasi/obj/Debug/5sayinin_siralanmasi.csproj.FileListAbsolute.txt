@@ -1,0 +1,8 @@
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\bin\Debug\5sayinin_siralanmasi.exe.config
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\bin\Debug\5sayinin_siralanmasi.exe
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\bin\Debug\5sayinin_siralanmasi.pdb
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\obj\Debug\5sayinin_siralanmasi.csproj.AssemblyReference.cache
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\obj\Debug\5sayinin_siralanmasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\obj\Debug\5sayinin_siralanmasi.csproj.CoreCompileInputs.cache
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\obj\Debug\5sayinin_siralanmasi.exe
+C:\Users\ozhan\source\repos\5sayinin_siralanmasi\obj\Debug\5sayinin_siralanmasi.pdb
